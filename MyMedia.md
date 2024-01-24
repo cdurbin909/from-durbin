@@ -18,3 +18,10 @@ This is a table that has songs/TV shows that I would recommend people give a try
 | Song: Mistake | This is one of my favorite songs, and I really relate to the message | NF |
 | Song: Witches | This is a very upbeat song and I think it has a great beat to it | Good Kid |
 | Song: Bullet | I think the message in this song is very important | NF |
+
+---
+
+## Favorite Quotes
+
+> Well done is better than well said. -_Benjamin Franklin_
+> Be yourself; everyone else is already taken. -_Oscar Wilde_
