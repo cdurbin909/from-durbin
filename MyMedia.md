@@ -26,3 +26,14 @@ This is a table that has songs/TV shows that I would recommend people give a try
 > Well done is better than well said. -_Benjamin Franklin_
 
 > Be yourself; everyone else is already taken. -_Oscar Wilde_
+
+---
+
+## Code fencing
+
+```
+SELECT column_name(s)
+FROM table1
+RIGHT JOIN table2
+ON table1.column_name = table2.column_name;
+```
