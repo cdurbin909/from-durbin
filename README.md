@@ -10,8 +10,12 @@ I like freddy's because they have **really good** cheese curds, and their ice cr
 
 ---
 
-### Ordered List
+### Lists
 
 1. Cheeseburger
 2. Fries
 3. Ice Cream
+
+- Baseball Fields
+- Museum
+- Other Restaurants
