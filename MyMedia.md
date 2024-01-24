@@ -24,4 +24,5 @@ This is a table that has songs/TV shows that I would recommend people give a try
 ## Favorite Quotes
 
 > Well done is better than well said. -_Benjamin Franklin_
+
 > Be yourself; everyone else is already taken. -_Oscar Wilde_
